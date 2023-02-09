@@ -19,8 +19,11 @@ for filename in os.listdir(xml_directory):
             # Read the XML data from the file
             xml_data = file.read()
 
+        # Parse XML Data
+        xml_data2 = xmltodict.parse(xml_data)
+
         # Convert XML to JSON
-        json_data = xmltodict.parse(xml_data)
+        json_data = json.dumps(xml_data2)
 
         # Construct the full path to the output JSON file
         json_file = os.path.join(json_directory, os.path.splitext(filename)[0] + ".json")
