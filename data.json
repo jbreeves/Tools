@@ -1,0 +1,177 @@
+[
+  {
+    "App Name": "CustomerHub",
+    "App Number": "APP-001",
+    "Owner": "Sarah Chen",
+    "Data Confidentiality": "High",
+    "Number of External Users": 1250
+  },
+  {
+    "App Name": "PayrollPro",
+    "App Number": "APP-002",
+    "Owner": "Michael Torres",
+    "Data Confidentiality": "Critical",
+    "Number of External Users": 0
+  },
+  {
+    "App Name": "InventoryTracker",
+    "App Number": "APP-003",
+    "Owner": "Jennifer Park",
+    "Data Confidentiality": "Medium",
+    "Number of External Users": 340
+  },
+  {
+    "App Name": "SalesForce Connect",
+    "App Number": "APP-004",
+    "Owner": "David Williams",
+    "Data Confidentiality": "High",
+    "Number of External Users": 2100
+  },
+  {
+    "App Name": "HR Manager",
+    "App Number": "APP-005",
+    "Owner": "Lisa Anderson",
+    "Data Confidentiality": "Critical",
+    "Number of External Users": 0
+  },
+  {
+    "App Name": "Marketing Analytics",
+    "App Number": "APP-006",
+    "Owner": "Robert Kim",
+    "Data Confidentiality": "Low",
+    "Number of External Users": 850
+  },
+  {
+    "App Name": "Project Nexus",
+    "App Number": "APP-007",
+    "Owner": "Amanda Rodriguez",
+    "Data Confidentiality": "Medium",
+    "Number of External Users": 560
+  },
+  {
+    "App Name": "Financial Dashboard",
+    "App Number": "APP-008",
+    "Owner": "James Murphy",
+    "Data Confidentiality": "Critical",
+    "Number of External Users": 0
+  },
+  {
+    "App Name": "Support Ticket System",
+    "App Number": "APP-009",
+    "Owner": "Emily Watson",
+    "Data Confidentiality": "Medium",
+    "Number of External Users": 3400
+  },
+  {
+    "App Name": "Document Vault",
+    "App Number": "APP-010",
+    "Owner": "Christopher Lee",
+    "Data Confidentiality": "High",
+    "Number of External Users": 125
+  },
+  {
+    "App Name": "Training Portal",
+    "App Number": "APP-011",
+    "Owner": "Michelle Garcia",
+    "Data Confidentiality": "Low",
+    "Number of External Users": 4200
+  },
+  {
+    "App Name": "Compliance Tracker",
+    "App Number": "APP-012",
+    "Owner": "Daniel Brown",
+    "Data Confidentiality": "Critical",
+    "Number of External Users": 0
+  },
+  {
+    "App Name": "Product Catalog",
+    "App Number": "APP-013",
+    "Owner": "Nicole Martinez",
+    "Data Confidentiality": "Low",
+    "Number of External Users": 5600
+  },
+  {
+    "App Name": "Expense Reporter",
+    "App Number": "APP-014",
+    "Owner": "Kevin Patel",
+    "Data Confidentiality": "High",
+    "Number of External Users": 0
+  },
+  {
+    "App Name": "Partner Portal",
+    "App Number": "APP-015",
+    "Owner": "Rachel Thompson",
+    "Data Confidentiality": "Medium",
+    "Number of External Users": 890
+  },
+  {
+    "App Name": "Asset Management",
+    "App Number": "APP-016",
+    "Owner": "Brian Wilson",
+    "Data Confidentiality": "Medium",
+    "Number of External Users": 0
+  },
+  {
+    "App Name": "Customer Feedback",
+    "App Number": "APP-017",
+    "Owner": "Sophia Nguyen",
+    "Data Confidentiality": "Low",
+    "Number of External Users": 6700
+  },
+  {
+    "App Name": "Contract Manager",
+    "App Number": "APP-018",
+    "Owner": "Marcus Johnson",
+    "Data Confidentiality": "Critical",
+    "Number of External Users": 230
+  },
+  {
+    "App Name": "Resource Scheduler",
+    "App Number": "APP-019",
+    "Owner": "Olivia Davis",
+    "Data Confidentiality": "Low",
+    "Number of External Users": 1800
+  },
+  {
+    "App Name": "Security Gateway",
+    "App Number": "APP-020",
+    "Owner": "Thomas Anderson",
+    "Data Confidentiality": "Critical",
+    "Number of External Users": 0
+  },
+  {
+    "App Name": "Mobile Sales App",
+    "App Number": "APP-021",
+    "Owner": "Isabella Taylor",
+    "Data Confidentiality": "High",
+    "Number of External Users": 3200
+  },
+  {
+    "App Name": "Knowledge Base",
+    "App Number": "APP-022",
+    "Owner": "Andrew Clark",
+    "Data Confidentiality": "Low",
+    "Number of External Users": 8900
+  },
+  {
+    "App Name": "Vendor Portal",
+    "App Number": "APP-023",
+    "Owner": "Maria Hernandez",
+    "Data Confidentiality": "Medium",
+    "Number of External Users": 450
+  },
+  {
+    "App Name": "Performance Monitor",
+    "App Number": "APP-024",
+    "Owner": "Ryan Mitchell",
+    "Data Confidentiality": "High",
+    "Number of External Users": 0
+  },
+  {
+    "App Name": "Client Dashboard",
+    "App Number": "APP-025",
+    "Owner": "Laura Wright",
+    "Data Confidentiality": "High",
+    "Number of External Users": 2750
+  }
+]
